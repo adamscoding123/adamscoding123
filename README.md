@@ -1,8 +1,8 @@
-# Hi, I'm Adam 👋
+# Hi! wELCOME
 
 ## My Projects
 
-### 🚀 Featured Projects
+### Featured Projects
 
 - **[FastAPI Vector Search](https://github.com/adamscoding123/fastapi-vector-search)** - Vector similarity search API built with FastAPI
 - **[Go Webhook Service](https://github.com/adamscoding123/go-webhook-service)** - Scalable webhook processing service in Go
@@ -12,10 +12,10 @@
 - **[LLM Content CLI](https://github.com/adamscoding123/llm-content-cli)** - Command-line tool for AI content generation
 - **[RAG Document QA](https://github.com/adamscoding123/rag-document-qa)** - Document Q&A system using RAG
 
-### 🛠️ Technologies
+### Technologies
 - **Backend:** Go, Python, FastAPI, Node.js
 - **Frontend:** React, Vue.js, React Native
 - **AI/ML:** LLMs, Vector Search, RAG
 
-### 📫 Connect with me
+### Connect with me
 - GitHub: [@adamscoding123](https://github.com/adamscoding123)
