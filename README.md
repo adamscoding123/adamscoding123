@@ -1,4 +1,4 @@
-# Hi! wELCOME
+# Hi! WELCOME
 
 ## My Projects
 
