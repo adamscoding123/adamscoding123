@@ -16,6 +16,3 @@
 - **Backend:** Go, Python, FastAPI, Node.js
 - **Frontend:** React, Vue.js, React Native
 - **AI/ML:** LLMs, Vector Search, RAG
-
-### Connect with me
-- GitHub: [@adamscoding123](https://github.com/adamscoding123)
