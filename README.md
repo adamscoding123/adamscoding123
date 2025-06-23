@@ -16,3 +16,5 @@
 - **Backend:** Go, Python, FastAPI, Node.js
 - **Frontend:** React, Vue.js, React Native
 - **AI/ML:** LLMs, Vector Search, RAG
+
+https://adamalas.com
